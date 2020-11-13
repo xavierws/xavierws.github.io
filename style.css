@@ -1,0 +1,54 @@
+:root {
+	font-size: 16px;
+}
+
+body {
+	background-color: #f4f6f9;
+	color: #090910;
+}
+
+h2 {
+	font-size: 2.5rem;
+}
+
+h3 {
+	font-size: 2.25rem;
+}
+
+h4 {
+	font-size: 2rem;
+}
+
+h5 {
+	font-size: 1.75rem;
+}
+
+h6 {
+	font-size: 1.5rem;
+}
+
+p {
+	font-size: 1.125rem;
+}
+.card {
+	margin-top: 10px;
+}
+
+li .dropdown {
+	z-index: 10000;
+}
+
+.navbar {
+	position: relative;
+	left: 0;
+	right: 0;
+	background-color: #6777ef;
+}
+
+.text-color {
+	color: rgba(9, 9, 16, 0.7);
+}
+
+:placeholder-shown {
+	font-style: italic;
+}
