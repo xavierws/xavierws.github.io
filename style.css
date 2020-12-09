@@ -52,3 +52,15 @@ li .dropdown {
 :placeholder-shown {
 	font-style: italic;
 }
+
+@media (min-width: 1200px) {
+	footer .main-footer {
+		padding-left: 210px;
+	}
+}
+
+/* @media (max-witdh: 1199.98px) {
+	footer .main-footer {
+		padding-left: 210px;
+	}
+} */
